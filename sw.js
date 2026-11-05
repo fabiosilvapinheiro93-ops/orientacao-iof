@@ -1,5 +1,5 @@
 
-const CACHE = 'orientacao-iof-2-6-v1';
+const CACHE = 'orientacao-iof-2-6-v2';
 
 const FILES = [
   './index.html',
