@@ -1,0 +1,27 @@
+
+{
+  "id": "./index.html",
+  "name": "Orientação IOF 2.6 — Gestão de Competições",
+  "short_name": "Orientação IOF",
+  "description": "Cronometragem, largadas, chegadas, resultados e ranking de corrida de orientação.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFEFD",
+  "theme_color": "#FFFEFD",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
